@@ -50,7 +50,7 @@
         <mongo.version>3.2.2</mongo.version>
         <aliyun.oss.sdk.version>3.8.0</aliyun.oss.sdk.version>
         <google.storage.version>1.48.0</google.storage.version>
-        <fastjson.version>1.2.60</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
     </properties>
 
     <dependencies>
